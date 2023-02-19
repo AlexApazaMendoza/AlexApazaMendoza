@@ -6,7 +6,7 @@ Soy ingeniero de sistemas profesional desde hace más de 2 años.
 Trabajo como Developer Mobile Android brindadno soluciones a clientes utilizando diversas tecnologías móviles. Me gusta mucho estudiar y aportar con mis conocimientos en diversas soluciones tecnológicas.
 
 ## Tecnologías:
-</br>
+
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
@@ -27,10 +27,9 @@ Y alguna más...
 
 ## Encuéntrame en:
 
-</br>
-[![Link](https://img.shields.io/badge/Link_Site-moure.dev-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://sites.google.com/view/alexapazamendozaportafolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alex-manuel-apaza-mendoza-13512b191/)
-[![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://sites.google.com/view/alexapazamendozaportafolio/)
+[![Link](https://img.shields.io/badge/Link_Site-alexapazamendoza-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://sites.google.com/view/alexapazamendozaportafolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex_Manuel_Apaza_Mendoza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alex-manuel-apaza-mendoza-13512b191/)
+[![Web](https://img.shields.io/badge/Web-alexapazamendoza-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://sites.google.com/view/alexapazamendozaportafolio/)
 
 <!--
 **AlexApazaMendoza/AlexApazaMendoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
