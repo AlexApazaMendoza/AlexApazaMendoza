@@ -3,7 +3,7 @@
 
 Soy ingeniero de sistemas profesional desde hace más de 2 años.
 
-Trabajo como Developer Mobile Android brindadno soluciones a clientes utilizando diversas tecnologías móviles. Me gusta mucho estudiar y aportar con mis conocimientos en diversas soluciones tecnológicas.
+Trabajo como Developer Mobile Android brindando soluciones en proyectos móviles para diferentes clientes. Me gusta mucho aprender y aportar con mis conocimientos en diversas soluciones tecnológicas.
 
 ## Tecnologías:
 
