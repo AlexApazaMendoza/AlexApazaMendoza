@@ -3,7 +3,7 @@
 ### Developer Mobile Android | Bachiller en Ingeniería de Sistemas
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=30&pause=1000&center=true&width=435&lines=5%2B+years+of+coding+experience+;Always+learning+new+techs" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Indie+Flower&size=30&pause=1000&center=true&width=435&lines=2%2B+years+of+coding+experience;Always+learning+new+techs" alt="Typing SVG" /></a>
 </p>
 
 Soy ingeniero de sistemas profesional desde hace más de 2 años.
