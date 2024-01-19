@@ -9,7 +9,7 @@
 
 Trabajo como Developer Mobile Android brindando soluciones en proyectos móviles para diferentes clientes. Me gusta mucho aprender y aportar con mis conocimientos en diversas soluciones tecnológicas. Cuento con experiencia en el desarrollo nativo de aplicaciones móviles para Android y desarrollo multiplataforma con Xamarin Forms.
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width = 50px></picture> **Contáctame**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width = 50px></picture> **Contact me**
 
 [![Link](https://img.shields.io/badge/Link_Site-alexapazamendoza-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://sites.google.com/view/alexapazamendozaportafolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex_Manuel_Apaza_Mendoza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alex-manuel-apaza-mendoza-13512b191/)
